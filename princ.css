@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background: linear-gradient(#06beb6,#48b1bf
+);
+}
+
+h2{
+    font-family: cursive;
+    margin-top: 0.7px;
+    color: darkblue;
+    text-align: center;
+    
+    
+}
+img{
+      border-radius: 5px;
+   
+}
+
+.box{
+    height: 360px;
+    width: 220px;
+    color: crimson;
+    border: blue 5px solid;
+    border-radius: 6px;
+   align-content: center;
+    align-items: center;
+    
+    font-family: cursive;
+        
+    
+}
+
+
+
+
+
+
+
+
+/*div{
+    height: 680px;
+    width: 420px;
+    border-right: blue 5px solid;
+    border-left: blue 5px solid;
+    border-bottom: blue 5px solid;
+    border-top: blue 2.5px solid;
+    border-radius: 5px;
+  font-family: cursive;
+    margin-left: 510px;
+ 
+    margin-top: 0.1px;
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
